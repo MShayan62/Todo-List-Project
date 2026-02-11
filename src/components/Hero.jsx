@@ -27,7 +27,7 @@ const Hero = () => {
   }
 
   const actions ={
-    todos, setFilter, setValue
+    todos, setFilter, setValue, setTodos
   }
 
   return (
